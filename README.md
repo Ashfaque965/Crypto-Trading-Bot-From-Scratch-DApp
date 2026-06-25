@@ -1,6 +1,7 @@
 # 🚀 Crypto Trading Bot From Scratch DApp
 
 
+
 <div align="center">
 
 ![Crypto Trading Bot](https://img.shields.io/badge/Web3-DeFi-blue)
