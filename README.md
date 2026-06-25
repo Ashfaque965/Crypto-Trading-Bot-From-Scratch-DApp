@@ -1,5 +1,6 @@
 # 🚀 Crypto Trading Bot From Scratch DApp
 
+
 <div align="center">
 
 ![Crypto Trading Bot](https://img.shields.io/badge/Web3-DeFi-blue)
@@ -541,5 +542,6 @@ Ashfaque965
 ---
 
 ⭐ If you found this project useful, please give it a star on GitHub.
-#   C r y p t o - T r a d i n g - B o t - F r o m - S c r a t c h - D A p p  
+#   C r y p t o - T r a d i n g - B o t - F r o m - S c r a t c h - D A p p 
+ 
  
